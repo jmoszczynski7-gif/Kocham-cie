@@ -1,12 +1,13 @@
+<!DOCTYPE html>
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>1 Rocznica ❤️</title>
   <style>
     body {
-      margin-left: 50px;
-      margin: 0;
+      
+      margin: 0 auto;
       font-family: 'Segoe UI', sans-serif;
       background: linear-gradient(135deg, #ff9a9e, #fad0c4);
       color: #333;
@@ -17,7 +18,7 @@
     }
     .card {
       background: white;
-      max-width: 800px;
+      max-width: auto;
       padding: 40px;
       border-radius: 20px;
       box-shadow: 0 20px 40px rgba(0,0,0,0.15);
@@ -129,4 +130,3 @@
   </script>
 </body>
 </html>
-
